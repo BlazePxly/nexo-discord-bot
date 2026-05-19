@@ -1,0 +1,5 @@
+Server Name: Nexoverse
+Description: Nexoverse adalah server RPG (Roleplay Game) dengan sistem leveling, quest, dan dungeon eksplorasi.
+Rules: Wajib roleplay, no RDM (Random Deathmatch), patuhi admin.
+Fitur Utama: Custom mobs, boss fights, loot tier system, magic spells.
+Info Bergabung: Semua info koneksi ada di channel #info.

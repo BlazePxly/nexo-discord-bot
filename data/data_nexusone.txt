@@ -1,0 +1,5 @@
+Server Name: Nexusone
+Description: Nexusone adalah server minigames kompetitif dengan berbagai mode permainan yang seru.
+Rules: Dilarang menggunakan cheat/hack client, dilarang toxic, dilarang spam.
+Fitur Utama: Bedwars, Skywars, Duels.
+Info Bergabung: Lihat cara bergabung di channel #info.

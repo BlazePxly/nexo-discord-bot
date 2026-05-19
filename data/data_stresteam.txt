@@ -1,0 +1,108 @@
+Ini adalah versi pembaruan (*update*) dari dokumen `data_stresteam.txt` milikmu. Data yang baru kamu berikan sudah dirapikan, digabungkan, dan distruktur ulang agar sangat mudah dibaca oleh AI (termasuk Gemini 2.0 Flash Lite yang sudah kita pilih sebelumnya).
+
+Silakan *copy* seluruh teks di bawah ini dan jadikan sebagai isi dari file `data_stresteam.txt`:
+
+---
+
+### 🌐 INFORMASI SERVER STRESTEAM SMP
+
+* **Nama Server:** Stresteam
+* **Owner:** BlazePxly, Stresmen
+* **IP Address:** stresteam.fun (Port Bedrock: 19132)
+* **Platform:** Support Java & Bedrock
+* **Resource Pack:** Wajib menggunakan Official Resource Pack (untuk logo, UI, tab, dan bentuk crate).
+
+---
+
+### 💰 1. EKONOMI, TOKO, PETS, & FARMING
+
+* **Sistem Toko:** `/shop` (Beli), `/sellgui` (Jual), dan `/store` (Toko khusus dengan beberapa halaman menggunakan panah, ada kategori *Others*).
+* **Farming (Scyther):** Area public farm ada di `/warp harvest`. Untuk mempercepat panen dengan fitur *auto-sell & auto-collect*, player bisa memakai item **Scyther** (memiliki efek multiplier x1, x2, x3). Scyther dibeli dari NPC di `/warp harvest` (dengan Balance) atau di `/store` page 3 (dengan Stresspoints).
+* **Pets System:** Pet memberikan atribut/trait khusus. Terdiri dari 3 tier: Common, Special, Legendary. Bisa dibeli di NPC `/warp petshop` (Balance) atau `/store` page 3 (Stresspoints). Player juga bisa gacha **Eggs Crate** (Harga Key 750k di Petshop).
+* **Builder Wand:** Item untuk mempercepat pembangunan base, dibeli di NPC Keys (Spawn).
+* **Coinflip:** Sistem taruhan koin adil antar player.
+
+---
+
+### 🛡️ 2. PERLENGKAPAN, CRAFTING & PROGRESSION (AURASKILLS)
+
+* **Sistem Skills:** Terdapat 11 skill (Farming, Foraging, Mining, Fishing, dsb). Total Power (jumlah level semua skill) menentukan tier perlengkapan yang bisa dipakai:
+* Lv 5–10 = Common
+* Lv 10–25 = Uncommon
+* Lv 25–50 = Rare (Biasanya butuh material Nether)
+* Lv 50–90 = Super Rare (Biasanya butuh material End/Dungeon)
+* Lv 90–150 = Epic
+* Lv 150–400 = Legendary
+* Lv 400–700 = Mythical
+
+
+* **Crafting Kustom (Compacting):** Gabungkan 3x material dasar untuk upgrade (Contoh: 3 ROUGH_IRON). Tidak bisa di-craft/dimasak di meja vanilla (Anti-Duping).
+* **Crate Item:** Crate menggunakan custom resourcepack. Contoh crate aktif: **Aceruin Crate** (Set Aceruin).
+* **Equipment Menarik:** Set Woodion, Set Cryo (dari Dungeon), Senjata Magis (Elderwood/Inferno Staff). Senjata *sword* bisa dipasangi gems/orbs di NPC **Altar of Orbs**.
+* **Custom Enchant:** Memiliki UI khusus dan harganya sudah diseimbangkan.
+
+---
+
+### ⚔️ 3. SISTEM RPG, DUNGEON, & MONSTER DROPS
+
+*Semua akses RPG dipusatkan di `/rpg` atau `/dg`. Terdapat NPC Quest berhadiah balance/item.*
+
+* **Dungeon 1: Baal's Den** * Syarat: Min. 2 Player | Kunci: 1x Infernal Sigil.
+* Hadiah: Epic Keys, Molten Fragment, Blazing Core, Soul Essence. Drop Super Rare (1%): Baal Hellreaper.
+
+
+* **Dungeon 2: Cryo Depths**
+* Syarat: Min. 2 Player | Kunci: 1x Glacial Depths Sigil.
+* Hadiah: Cryo's Dungeon Crate (Berisi chance Legendary Cryo Chestplate, Set/Senjata Cryo, Epic Keys).
+
+
+* **Dungeon 3:** Abyssal Rift (Solo Dungeon).
+* **Monster Drops (Overworld):** Rusted Soldier (Rough Iron 40%), Bone Scavenger (Cracked Bone 45%), Forest Warden (Forest Steel), Amethyst Collector (Sunforged Fragment), River Guardian (River Steel), Swamp Witch (Swamp Resin), Desert Bounty Hunter (Desert Bone Plate).
+* **Monster Drops (Nether):** Nether Blaze (Blazing Core), Soul Reaper (Soul Essence, Mountain Edge Dagger), Molten Piglin (Molten Fragment).
+* **Boss Area:** Warden, Elder Guardian, Wither, Ender Dragon. Waspadai monster dengan nama [Small Caps]. Kalahkan boss untuk chance dapat 10 Epic Keys / 1 Legendary Key.
+
+---
+
+### 🏡 4. SISTEM LAND (PROTEKSI WILAYAH)
+
+*Gunakan fitur Lands untuk melindungi bangunan dari griefing.*
+
+* **Limit Claim:** Rakyat/Default (10), RT (20), RW (30), Kades (50), Lurah (85), Camat (100).
+* **Command Dasar Lands:**
+* `/land claim [nama]` = Klaim wilayah di chunk tempat berdiri.
+* `/land unclaim` = Menghapus klaim.
+* `/land bounds` = Melihat batas (Hijau = Milikmu, Orange = Orang lain, Putih = Bebas).
+* `/land members` = Menambah, menghapus, atau mengubah rank teman (harus online).
+* `/land settings` = Atur deskripsi, flag/izin, icon, transfer kepemilikan.
+* `/land setspawn` = Set titik teleport land agar tidak nyangkut.
+
+
+
+---
+
+### 🏰 5. SISTEM GUILD & GUILD WAR
+
+*Guild memberikan buff dan ruang penyimpanan bersama.*
+
+* **Command Dasar:** `/guild create [nama] [prefix]` (Contoh: `/guild create admin &cADMING`). Bedrock player saat di-invite harus dipakaikan titik: `/guild invite .Stresmen`. Command lain: `/guild leave`, `/guild kick`, `/guild transfer`, `/guild promote/demote`, `/guild ally`.
+* **Guild Base:** `/guild sethome`, `/guild vault` (Simpan barang), `/guild bank deposit [nominal]`, `/guild buff` (Beli efek potion).
+* **Sistem Upgrade (`/guild upgrade`):**
+* Tier 1 (Bronze): Cost $10k | Max 4 Member | 1 Vault | Bank Max $50k.
+* Tier 2 (Silver): Cost $50k | Max 8 Member | 1 Vault | Bank Max $100k | Syarat Rank Up: 3 Member.
+* Tier 3 (Gold): Cost $100k | Max 14 Member | 2 Vault | Bank Max $250k | Syarat Rank Up: 6 Member.
+* Tier 4 (Platinum): Cost $150k | Max 20 Member | 2 Vault | Bank Max $500k | Syarat Rank Up: 10 Member.
+* Tier 5 (Diamond): Cost $200k | Max 30 Member | 3 Vault | Bank Max $1M | Syarat Rank Up: 15 Member. (Makin tinggi tier, multiplier XP dan damage meningkat).
+
+
+* **Guild War:** Tantang guild lain dengan `/guild challenge [nama]`. Guild lawan menerima dengan `/guild war accept`. Member join dengan `/guild war join`. Tim yang mati semua dinyatakan kalah. Ada juga Arena Free For All (FFA) untuk PvP biasa.
+
+---
+
+### 🎁 6. FITUR QoL & EVENT LAINNYA
+
+* **Bantuan Player:** Gunakan `/faq`. Pindah area bisa dengan `/warp [nama lokasi]`.
+* **Event Rutin:** Chat Games (setiap 25 menit, min 5 player online). VoteParty (hadiah massal jika target vote tercapai). Daily Rewards (hadiah login harian). Leaderboard 8 kategori di Spawn.
+* **Playerwarps:** Player bisa membuat warp publik untuk mengundang orang ke tempatnya.
+* **Fitur Kemudahan:** `/nv` untuk Nightvision. Sistem *Clearlag* aman (tidak menghapus boat, minecart, dan armor stand). Chat Discord sinkron dengan game.
+
+---
